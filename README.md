@@ -1,4 +1,5 @@
 🎵 Emotion-Based Spotify Music Recommender
+
 📌 Project Overview
 
 This project is a real-time Emotion-Based Music Recommendation System that uses facial emotion recognition to suggest Spotify playlists according to the user's mood. It captures live video through a webcam, analyzes facial expressions using DeepFace, detects the dominant emotion, and automatically opens a corresponding Spotify playlist in the browser.
